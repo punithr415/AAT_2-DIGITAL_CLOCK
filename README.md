@@ -1,4 +1,5 @@
-# AAT_2-DIGITAL_CLOCK
+# AAT_2-DIGITAL_CLOCK 
+# USN :1BM24EC415 
 Designed a digital clock using System Verilog 
 6-bit seconds and minutes synchronous digital clock implemented in SystemVerilog with functional coverage and assertions.
 
